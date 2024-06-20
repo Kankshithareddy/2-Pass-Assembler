@@ -1,0 +1,7 @@
+ldc 2 ;label and mnemonic in different lines
+adc 1
+ldc 3 
+call last
+main: ldc 1
+last: adj 0
+HALT

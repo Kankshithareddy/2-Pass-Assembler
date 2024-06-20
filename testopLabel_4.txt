@@ -1,0 +1,7 @@
+count 00004e
+loop 000010
+main 00000a
+one 000049
+result 00004f
+skip 000032
+triangle 000025
